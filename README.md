@@ -13,7 +13,7 @@
 ### Featureset 2 (Do this when asked to, not before - week 5)
 - Hackathon 1 project add
 
-### Featureset 3-1 (Do this when asked to, not before - week 7)
+### Featureset 3 (Do this when asked to, not before - week 7)
 - Google maps api fix
 	- go to <a href="https://cloud.google.com/maps-platform/?apis=maps" target="_blank">google maps api</a> and click "get started"
 	- Enable the google maps platform and click "continue"
