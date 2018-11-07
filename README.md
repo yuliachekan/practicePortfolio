@@ -57,11 +57,15 @@
 			- change the lat/long given there to your desired lat/long
 
 
-### Featureset 3-1 (Do this when asked to, not before - week 7)
+### Featureset 4 (Do this when asked to, not before - week 7)
 - Hackathon 2 project add
 
-### Featureset 4 (Do this when asked to, not before - week 7)
+### Featureset 5 (Do this when asked to, not before - week 7)
 - Contact form data and validation
 
-### Featureset 5 (Do this when asked to, not before - week 9)
+### Featureset 6 (Do this when asked to, not before - Week 8)
+- Deploy to server as Dev
+- Deploy to server as Production
+
+### Featureset 7 (Do this when asked to, not before - week 9)
 - Contact form email sending (sendgrid)
