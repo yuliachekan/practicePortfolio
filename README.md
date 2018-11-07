@@ -1,26 +1,23 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# Practice Portfolio Project
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+- This project will be updated over time with various sections.
+- You should work on enhancing this when you need to take a break on your current project.
 
-## Getting Started
+### Featureset 1 (Do this when asked to, not before - week 3)
+- Dev story copy
+	- Replace the title "GRAYSCALE" in the main page with your name
+	- add your short blurb about yourself below the title
+	- in the section titled "ABOUT GRAYSCALE" change the title to "ABOUT <your first name>"
+	- Add your developer story to the text below "ABOUT GRAYSCALE"
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+### Featureset 2 (Do this when asked to, not before - week 5)
+- Hackathon 1 project add
 
-## Bugs and Issues
+### Featureset 3 (Do this when asked to, not before - week 7)
+- Hackathon 2 project add
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+### Featureset 4 (Do this when asked to, not before - week 7)
+- Contact form data and validation
 
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+### Featureset 5 (Do this when asked to, not before - week 9)
+- Contact form email sending (sendgrid)
